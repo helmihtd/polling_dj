@@ -1,0 +1,5 @@
+1.	Setting environtment > install django > intall admin > install apps
+2.	Setup Models untuk tabel, installed apps, lalu migrate dan tambahkan tabel di admin.py agar terbaca di django admin
+3.	Buat urls di polls dan lakukan konfigurasi
+4.	Membuat folder templates di masing2 folder polls dan polling, tambahkan file index di polls template, 
+	dan lakukan setting.py dan tambah ke templates agar templates terbaca
